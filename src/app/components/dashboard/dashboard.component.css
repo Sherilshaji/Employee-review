@@ -1,0 +1,51 @@
+.dashboard-container {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.admin-section {
+  background-color: #e0f7fa;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.admin-section h3 {
+  color: #00796b;
+  font-size: 20px;
+}
+
+.action-buttons {
+  margin-top: 10px;
+}
+
+.action-buttons button {
+margin: 50px;
+  background-color: #0a8d35;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.action-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.user-info {
+  margin-top: 20px;
+}
+
+.user-info p {
+  color: #555;
+}
